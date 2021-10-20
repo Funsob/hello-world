@@ -4,8 +4,8 @@ print ('I am going to count to ten')
 
 i = 1
 
-while i < 11
-  print ('This is number ' + i)
-  
+while i < 11:
+  print ('This is number ' + str(i))
+  i = i + 1
 
 print ('all done!')
