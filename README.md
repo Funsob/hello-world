@@ -7,6 +7,3 @@ This is the first edit in this new branch
 
 
 And this is a second change in another edit that I shall commit
-
-
-Now this is a third change, I am doing this in Visual Studio Code
